@@ -16,4 +16,4 @@ DS_Store
 *.sln
 *.vsconfig
 
-Assets/Packages/tripolygon/
+/Assets/Packages/tripolygon
